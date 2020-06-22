@@ -1,1 +1,2 @@
-# make-my-own-game
+# staticSquare
+A static square made using Matter.js physics engine
